@@ -3,6 +3,7 @@
 Hi. I'm a third-year Civil Engineering student specializing in Computer Science. I'm eager to learn new things and broaden my knowledge :). 
 
 - 🐁 I’m currently learning about software design.
+- Codeforces profile: https://codeforces.com/profile/Clapt
 - 🦕 Fun fact: 🦖
 
 
