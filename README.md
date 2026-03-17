@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/ogWMlqzl-8kAAAAj/pok%C3%A9mon-turtwig-turtwig.gif" />
 
-***About me***<img src="https://media.tenor.com/tM1MSIg3KVcAAAAj/pokemon-aipom.gif" width="60px">&nbsp;
+***About me***<img src="https://media.tenor.com/HzZGfUdXG3UAAAAj/mawile-spin-pixel-mawile-spin.gif" width="120px">&nbsp;
 
 Hi. I'm a third-year Civil Engineering student specializing in Computer Science. I'm eager to learn new things and broaden my knowledge :).
 - 🌱 I’m currently learning ...
