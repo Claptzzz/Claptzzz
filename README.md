@@ -4,7 +4,7 @@
 
 ***About me***<img src="https://media.tenor.com/HzZGfUdXG3UAAAAj/mawile-spin-pixel-mawile-spin.gif" width="120px">&nbsp;
 
-Hi. I'm a third-year Civil Engineering student specializing in Computer Science. I'm eager to learn new things and broaden my knowledge :).
+Hi. I'm a fourth-year Civil Engineering student specializing in Computer Science. I'm eager to learn new things and broaden my knowledge :).
 - 🌱 I’m currently learning ...
   - HTML & CSS
   - Software Design.
