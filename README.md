@@ -11,10 +11,8 @@ Hi. I'm a fourth-year Civil Engineering student specializing in Computer Science
 - 🦕 Fun fact: 🦖
 - Outside tech, I like to play games, listening to music, and watch some tv series.
 
-<img src="https://media.tenor.com/HzZGfUdXG3UAAAAj/mawile-spin-pixel-mawile-spin.gif" width="120px">&nbsp;
-
 ## My Skills Include
-
+<img align="right" width=250px alt="Unicorn" src="https://media.tenor.com/HzZGfUdXG3UAAAAj/mawile-spin-pixel-mawile-spin.gif" />
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
