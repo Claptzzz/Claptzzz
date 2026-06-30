@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/ogWMlqzl-8kAAAAj/pok%C3%A9mon-turtwig-turtwig.gif" />
 
-***About me***<img src="https://media.tenor.com/HzZGfUdXG3UAAAAj/mawile-spin-pixel-mawile-spin.gif" width="120px">&nbsp;
+***About me***
 
 Hi. I'm a fourth-year Civil Engineering student specializing in Computer Science. I'm eager to learn new things and broaden my knowledge :).
 - 🌱 I’m currently learning ...
@@ -12,6 +12,8 @@ Hi. I'm a fourth-year Civil Engineering student specializing in Computer Science
 - Outside tech, I like to play games, listening to music, and watch some tv series.
 
 ## My Skills Include
+
+<img src="https://media.tenor.com/HzZGfUdXG3UAAAAj/mawile-spin-pixel-mawile-spin.gif" width="120px">&nbsp;
 
 <h4> Languages </h4>
 <span> 
