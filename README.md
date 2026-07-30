@@ -6,7 +6,7 @@
 
 Hi. I'm a fourth-year Civil Engineering student specializing in Computer Science. I'm eager to learn new things and broaden my knowledge :).
 - 🌱 I’m currently learning ...
-  - HTML & CSS
+  - Deploy and cloud.
   - Software Design.
 - 🦕 Fun fact: 🦖
 - Outside tech, I like to play games, listening to music, and watch some tv series.
